@@ -17,10 +17,4 @@ These 5 tasks are solved in separate files put into one folder named **Part B.**
 
 ## 🚀 Running the Files
 - Open 'index.html' in a browser to view Part A. Click on 'Registration Form' to access **form.html**.
-- Run each JavaScript file individually with Node.js:  
-  ```bash
-  node solutions/deepEqual.js
-  node solutions/objectDiff.js
-  node solutions/deepFreeze.js
-  node solutions/privateCounterFactory.js
-  node solutions/schemaValidator.js
+- Each .js file can be run from the online code runner in https://javascript.oluwasetemi.dev/294
